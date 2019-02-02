@@ -1,0 +1,5 @@
+Resumen de datos de tabernas_meteo_data 
+Tmax 24-07-09 42.6
+Tmin; 24-08-04; 23.8; 
+Tmed; 24-08-04;       32.10000 
+Precip; 10-10-08;     66.200 
