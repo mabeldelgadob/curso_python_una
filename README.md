@@ -14,27 +14,28 @@ Personal académico y asistente asociado al Departamento de Fisica de la Univers
 
 ## Organización:
 * Días: Desde el Lunes 04/02/2019 al Jueves 07/02/2019 (ambos días incluidos).
-* Horario: De 9:00h a 12:00h y de 13:00h a 15:00h.
-* Lugar: Facultad de Ciencias Físicas de la Universidad Nacional de Costa Rica. Campus de Heredia.
+* Duración: 20 h
+* Lugar: Facultad de Ciencias Físicas de la Universidad Nacional (Campus de Heredia. Costa Rica).
 
 ## Contenido:
 
-* **Sesión 1: Introducción a Python.**
+* **Día 1: Introducción a Python.**
   * Distribuciones de Python. Paquetes (instalación y uso).
   * Uso de la shell, ejecución de scripts, uso de jupyter notebook/lab, uso de un IDE (PyCharm).
   * Tipos de datos y operaciones, estructuras de control, y funciones.
   * Lectura y escritura de ficheros utilizando la librería estándar. 
 
-* **Sesión 2: Módulos para aplicaciones científicas e ingenieriles (parte 1).**
-  * NumPy: Arrays (creación, slicing, broadcasting...). Lectura y escritura de datos. Álgebra lineal
+* **Día 2: Módulos para aplicaciones científicas e ingenieriles (parte 1).**
+  * NumPy: Arrays (creación, slicing, broadcasting...). 
+  * NumPy: Lectura y escritura de datos. Álgebra lineal
+  
+* **Día 3: Módulos para aplicaciones científicas e ingenieriles (parte 2).**
   * Matpotlib: Representaciones gráficas en ciencia e ingeniería.
-
-* **Sesión 3: Módulos para aplicaciones científicas e ingenieriles (parte 2).**
-  * pandas: Lectura y escritura de datos manipulación y filtrado de datos, agrupación, estadística, representaciones gráficas.
   * SciPy: Interpolación y ajuste, integración, ecuaciones diferenciales ordinarias, ecuaciones no lineales.
  
-* **Sesión 4: Módulos para aplicaciones científicas e ingenieriles (parte 3).**
-  * SymPy: cálculo simbólico, lambdify, sistemas de coordenadas.
+* **Día 4: Módulos para aplicaciones científicas e ingenieriles (parte 3).**
+  * pandas: Lectura y escritura de datos manipulación y filtrado de datos, agrupación, estadística, representaciones gráficas.
+  * SymPy: cálculo simbólico.
   * Solución e implementación de modelos básicos físicos. 
   * Solución de problemas y aplicaciones con ecuaciones diferenciales.
 
